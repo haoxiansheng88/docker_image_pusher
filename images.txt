@@ -2,3 +2,4 @@ alpine
 centos
 python:alpine3.19
 mysql
+nginx
