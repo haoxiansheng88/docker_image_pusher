@@ -3,4 +3,4 @@ centos
 python:alpine3.19
 mysql
 nginx
-dnsutils
+busybox
